@@ -1,5 +1,5 @@
 # Computer-Olympiad
-## Programming practice: list of computer olympiad
+## Programming practice: list of computer olympiad's accepted candidates
 
 Ahmad is sending the final list of the names of those accepted to the Computer Olympiad to the results review committee so that the committee can print the entry cards for the final competitions, but because a specific format was not defined for registering the names during the test, the participants did not write their names in the standard format; besides, the programming language with which they participated in the competition is written in the continuation of each name, and the gender of the people is also specified at the beginning of each name. The standard form of names is that the first letter of the name is uppercase and the rest of the letters of the name are lowercase. 
 
